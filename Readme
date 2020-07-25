@@ -1,0 +1,11 @@
+Problem Statement :
+Create mini API which will download JSON from internet using an API and then prepare an HTML Report and
+to be saved in local machine.
+
+Open myproj
+
+npm install 
+
+node api.js
+
+We will get desired output.
